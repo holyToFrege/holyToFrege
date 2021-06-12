@@ -1,20 +1,20 @@
 Hi! I'm holy frege 
 (frege isn't real name, I just attach it because I love too much G.Frege who is like an ancestor of First order logic.)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Machine Learning, Monitoring System.`
      
-- 🌱 I’m currently reading ...
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `PAIP-Peter Norvig, COMMON LISP:
+- 🌱 I’m currently reading ...  
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `PAIP-Peter Norvig,   COMMON LISP:
 A Gentle Introduction
 to Symbolic Computation, Code-Petzold`
 
 * Technical Stack
- ⚡ OS: GUIX, Ubuntu, OSX
- ⚡ Editor: Emacs
- ⚡ Languages: Lisp, Prolog, Haskell, Python, Ruby, C, Web(html,css,js)
- ⚡ DB: Mariadb
- ⚡ CLOUD: AWS
+ ⚡ OS: GUIX, Ubuntu, OSX  
+ ⚡ Editor: Emacs  
+ ⚡ Languages: Lisp, Prolog, Haskell, Python, Ruby, C, Web(html,css,js)  
+ ⚡ DB: Mariadb  
+ ⚡ CLOUD: AWS  
 
 <!-- <img src="{BadgeURLHere}" /> -->
 
