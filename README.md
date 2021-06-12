@@ -1,9 +1,19 @@
 Hi! I'm holy frege(frege isn't real name, I just attach it because I love too much G.Frege who is like an ancestor of First order logic.)
 
 - 🔭 I’m currently working on ...
-    Machine Learning, Monitoring System.
+    <font color="green"> Machine Learning, Monitoring System. </font>
 - 🌱 I’m currently reading ...
-	Peter Norvig(PAIP), Introduction to lisp(Gently...)
+    <font color="green"> 	Peter Norvig(PAIP), Introduction to lisp(Gently...) </font>
+
+* Technical Stack
+- ⚡ OS: 
+- ⚡ Editor: 
+- ⚡ Languages: 
+	<img src="{https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white}" />
+- ⚡ DB: 
+- ⚡ CLOUD: 
+
+<!-- <img src="{BadgeURLHere}" /> -->
 
 
 <!--
