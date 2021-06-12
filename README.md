@@ -9,7 +9,7 @@ Hi! I'm holy frege
 A Gentle Introduction
 to Symbolic Computation, Code-Petzold`
 
-* Technical Stack
+* Technical Stack  
  ⚡ OS: GUIX, Ubuntu, OSX  
  ⚡ Editor: Emacs  
  ⚡ Languages: Lisp, Prolog, Haskell, Python, Ruby, C, Web(html,css,js)  
