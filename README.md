@@ -10,13 +10,13 @@ A Gentle Introduction
 to Symbolic Computation, Code-Petzold`
 
 * Technical Stack  
- ⚡ OS: GUIX, Ubuntu, OSX  
+ ⚡ OS: GUIX System, Ubuntu, OSX  
  ⚡ Editor: Emacs  
  ⚡ Languages: Lisp, Prolog, Haskell, Python, Ruby, C, Web(html,css,js)  
  ⚡ DB: Mariadb  
  ⚡ CLOUD: AWS  
 
-Now I'm currently between jobs.
+Now I'm currently in between jobs.
 <!-- <img src="{BadgeURLHere}" /> -->
 
 
