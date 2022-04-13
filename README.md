@@ -1,5 +1,5 @@
 Hi! I'm holy frege 
-(frege isn't real name, I just used it in my nick because I love too much G.Frege who is the ancestor of First order logic.)
+(frege isn't real name, I just used it as my nick because I love too much G.Frege who is the ancestor of First order logic.)
 
 - 🔭 I’m currently working on ...  
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Machine Learning, Monitoring System.`
@@ -16,6 +16,7 @@ to Symbolic Computation, Code-Petzold`
  ⚡ DB: Mariadb  
  ⚡ CLOUD: AWS  
 
+Now I'm currently between jobs.
 <!-- <img src="{BadgeURLHere}" /> -->
 
 
